@@ -1,0 +1,8 @@
+prefix=/home/robond/Project5_udacity/devel
+
+Name: add_markers
+Description: Description of add_markers
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/robond/Project5_udacity/devel/lib 
+Requires: 
